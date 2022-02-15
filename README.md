@@ -37,6 +37,10 @@ optional arguments:
   -h, --help      show this help message and exit
   -i, --imperial  display the temperature in imperial units
 
+
+# Example 
+python weather.py city
+
 python weather.py toronto
 
 Toronto  💨   Overcast clouds (-10.61 °C) | Feels like (-13.49 ) °C | Humidity 65 🟠
