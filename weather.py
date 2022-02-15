@@ -4,7 +4,6 @@ import json
 import sys
 from configparser import ConfigParser
 from urllib import parse, request, error
-from pprint import pp
 import style
 
 BASE_WEATHER_API_URL = "https://api.openweathermap.org/data/2.5/weather"
